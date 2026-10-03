@@ -70,11 +70,11 @@ Exit reasons,
 Compensation-related patterns
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Dashboard-overview.png)
 
 ### Attrition Drivers
 
-![Attrition Drivers](screenshots/attrition-drivers.png)
+![Attrition Drivers](screenshots/Attrition-driver.png)
 
 
 ### **🔎 KEY FINDINGS**
