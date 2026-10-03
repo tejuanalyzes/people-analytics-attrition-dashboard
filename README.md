@@ -68,6 +68,13 @@ Exits by job role,
 Exits by tenure band,
 Exit reasons,
 Compensation-related patterns
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Attrition Drivers
+
+![Attrition Drivers](screenshots/attrition-drivers.png)
 
 
 ### **🔎 KEY FINDINGS**
